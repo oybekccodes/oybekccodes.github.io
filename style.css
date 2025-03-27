@@ -1,0 +1,78 @@
+.body {
+  background-color: rgb(241, 243, 242);
+}
+.profilephoto {
+  max-width: 200px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6 px rgba(225, 11, 11, 0.75) transition(all ease-in-out.3s);
+}
+.secondphoto {
+  max-width: 200px;
+  margin-left: 800px;
+  margin-top: -180px;
+  margin-bottom: 0;
+  border-radius: 5%;
+}
+.thirdphoto {
+  max-width: 200px;
+  margin-left: 800px;
+  margin-top: -180px;
+  margin-bottom: 0;
+  border-radius: 5%;
+}
+.container {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.container > div {
+  margin: 20px auto;
+  text-align: center;
+}
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(
+    to right,
+    rgba(244, 8, 8, 0),
+    rgba(245, 18, 18, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+}
+.text {
+  max-width: 800px;
+  margin: 50px;
+  margin-top: 0;
+  padding: 30px;
+}
+
+.option {
+  max-width: 200px;
+  margin: 170px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+.option > h2 {
+  max-width: 300px;
+  margin-left: 1200px;
+  margin-top: -50px;
+}
+
+.text > p1 {
+  font-size: 16px;
+  margin-left: -30px;
+}
+
+.footer{
+  max-width:300px;
+  margin: 0 auto;
+  text-align:center;
+
+}
+.icon{
+  max-width:15px;
+  margin-right: 5px;
+}
+.button{
+  color:white;
+  background-color: green;
+}
